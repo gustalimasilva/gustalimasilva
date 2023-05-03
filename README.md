@@ -4,7 +4,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dev1/)
 
 
-![Gus's GitHub stats](https://github-readme-stats.vercel.app/api?username=GusDev0&show_icons=true&theme=dracula)
+![Gus's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=GusDev0&show_icons=true&theme=dracula)
 
 
 ## Tecnologias que uso no meu dia
@@ -21,4 +21,4 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GusDev0&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GusDev0&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
