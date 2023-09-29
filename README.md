@@ -1,6 +1,6 @@
 ### Olá, eu sou o Gustavo! 👋
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dev1/)
+---
 
 ## Tecnologias que uso no meu dia
 
@@ -24,3 +24,7 @@
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustalimasilva&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Gus's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gustalimasilva&show_icons=true&theme=dracula)
+
+##Onde me encontrar ?
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dev1/)
