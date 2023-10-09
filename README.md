@@ -1,7 +1,7 @@
 
 
 <h1> Olá, eu sou o Gustavo! 👋 </h1>
-Sou um desenvolvedor Back end!
+Sou um desenvolvedor!
 </br>
 
 ## Tecnologias que uso no meu dia
