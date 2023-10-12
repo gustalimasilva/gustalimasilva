@@ -3,7 +3,7 @@
   </br>
 </center>
 
-## Sobre mim
+## SOBRE MIN
 
 Olá, eu sou Gustavo, um desenvolvedor junior com experiência em desenvolvimento backend. Sou apaixonado por aprender novas tecnologias e estou sempre procurando novas oportunidades para desafiar a mim mesmo e crescer como desenvolvedor.
 
@@ -16,8 +16,11 @@ Você pode me encontrar no <a href= https://www.linkedin.com/in/gustavolsilva/>L
 * Me tornar um desenvolvedor backend experiente
 * Contribuir para o desenvolvimento de produtos e serviços de alta qualidade
 
+## HABILIDADES
+
 <center>
-   <h2>Tecnologias que uso no meu dia</h2>
+
+<h3>TÉCNINCAS</h3>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -36,3 +39,10 @@ Você pode me encontrar no <a href= https://www.linkedin.com/in/gustavolsilva/>L
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustalimasilva&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </center>
+
+### NÃO TÉCNINCAS
+  * Comunicação
+  * Trabalho em equipe
+  * Resolução de problemas
+
+
