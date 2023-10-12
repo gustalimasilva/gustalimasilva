@@ -45,4 +45,9 @@ Você pode me encontrar no <a href= https://www.linkedin.com/in/gustavolsilva/>L
   * Trabalho em equipe
   * Resolução de problemas
 
+## Contato
+
+* e-mail: gustavolimasilva1902@gmail.com
+* LinkedIn: https://www.linkedin.com/in/gustavolsilva/
+
 
