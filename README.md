@@ -1,12 +1,20 @@
+<center>
+  <h1 style="font-zie: 30px;"> Olá, eu sou o Gusta! </br>👋 </h1>
+  </br>
+</center>
 
+## Sobre mim
 
-<h1> Olá, eu sou o Gustavo! 👋 </h1>
-Sou um desenvolvedor!
-</br>
+Olá, eu sou Gustavo, um desenvolvedor junior com experiência em desenvolvimento backend. Sou apaixonado por aprender novas tecnologias e estou sempre procurando novas oportunidades para desafiar a mim mesmo e crescer como desenvolvedor.
 
-## Tecnologias que uso no meu dia
+Estou particularmente interessado em desenvolvimento de APIs, arquitetura de sistemas e banco de dados. Meu objetivo é me tornar um desenvolvedor backend experiente e contribuir para o desenvolvimento de produtos e serviços de alta qualidade.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+Você pode me encontrar no LinkedIn em [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dev1/)
+
+<center>
+   <h2>Tecnologias que uso no meu dia</h2>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -16,10 +24,10 @@ Sou um desenvolvedor!
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
+</center>
+
+<center>
+
 [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustalimasilva&hide_progress=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-## Onde me encontrar ?
-
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dev1/)
+</center>
