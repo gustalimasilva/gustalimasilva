@@ -9,7 +9,12 @@ Olá, eu sou Gustavo, um desenvolvedor junior com experiência em desenvolviment
 
 Estou particularmente interessado em desenvolvimento de APIs, arquitetura de sistemas e banco de dados. Meu objetivo é me tornar um desenvolvedor backend experiente e contribuir para o desenvolvimento de produtos e serviços de alta qualidade.
 
-Você pode me encontrar no LinkedIn em [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-dev1/)
+Você pode me encontrar no <a href= https://www.linkedin.com/in/gustavolsilva/>Linkedin</a>.
+
+## Objetivos
+
+* Me tornar um desenvolvedor backend experiente
+* Contribuir para o desenvolvimento de produtos e serviços de alta qualidade
 
 <center>
    <h2>Tecnologias que uso no meu dia</h2>
